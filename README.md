@@ -12,6 +12,6 @@
   图片：{{@var}}  
   表格：{{#var}}  
  
- ## POI末班引擎中文文档：
+ ## POI模板引擎 中文文档：
  
  http://deepoove.com/poi-tl/#_%E6%96%87%E6%9C%AC
